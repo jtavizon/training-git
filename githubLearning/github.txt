@@ -1,0 +1,16 @@
+amigoscode.com
+   Git and Github Essentials
+   1) Download and install github https://github.com/git-guides/install-git
+   2) cmd
+   3) git config --global user.name "jtavizon"
+      git config --global user.email "jairo.tavizon@gmail.com"
+      git config --global color.ui auto
+      git config -l
+
+   4) Initialising git repository
+      NEW projects
+          cd C:\ProgramFilesTavi\Training
+          git init .
+
+
+       
