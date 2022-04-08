@@ -12,5 +12,18 @@ amigoscode.com
           cd C:\ProgramFilesTavi\Training
           git init .
 
+   5) git add
+       Create files 
+       git add githubLearning                    to add into stage area
+       git rm --cached githubLearning            to remove from stage area
+       git add .                                 to add everything to stage area
+       git status
+
+   6) git commit 
+       git commit -m "proyecto aprender github"
+       git log
+       git show 0292215647839282eeba506bab4a62a3348c68a9
+
+
 
        
