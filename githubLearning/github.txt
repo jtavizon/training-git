@@ -24,6 +24,8 @@ amigoscode.com
        git log
        git show 0292215647839282eeba506bab4a62a3348c68a9
        git status
+       git diff                                 para ver diferencias 
+
 
 
 
